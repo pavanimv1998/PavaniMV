@@ -1,5 +1,5 @@
 # PavaniMV
-# Hi 👋 I'm Pavani
+# Hey 👋 I'm Pavani
 
 I'm a Cybersecurity Analyst with over 4+ years of experience in Security Operations, primarily specializing in Incident Response and Detection Engineering, with prior experience in Vulnerability Management. Throughout my career, I've investigated a wide range of security incidents, performed threat analysis, conducted root cause analysis, and collaborated with cross-functional teams to contain, remediate, and recover from security events.
 
